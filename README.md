@@ -1,10 +1,16 @@
-# Deep Learning Nanodegree Foundation
+### Home work projects, click below link to access page directly, and the review result.  
 
-This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
+* [Your First Neural Network](http://htmlpreview.github.io/?https://github.com/dinglioutlook/deep-learning/blob/master/first-neural-network/Your%2Bfirst%2Bneural%2Bnetwork.html): Implement a neural network in Numpy to predict bike rentals.
+[REVIEW RESULTS](https://review.udacity.com/#!/reviews/426461)
+* [Image classification](http://htmlpreview.github.io/?https://github.com/dinglioutlook/deep-learning/blob/master/image-classification/dlnd_image_classification.html): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+[REVIEW RESULTS](https://review.udacity.com/#!/reviews/494701)
+* [Text Generation](http://htmlpreview.github.io/?https://github.com/dinglioutlook/deep-learning/blob/master/tv-script-generation/dlnd_tv_script_generation.html): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+[REVIEW RESULTS](https://review.udacity.com/#!/reviews/540436)
+* [Machine Translation](http://htmlpreview.github.io/?https://github.com/dinglioutlook/deep-learning/blob/master/language-translation/dlnd_language_translation.html): Train a sequence to sequence network for English to French translation (on a simple dataset)
+[REVIEW RESULTS](https://review.udacity.com/#!/reviews/584349)
+* [Face Generation](http://htmlpreview.github.io/?https://github.com/dinglioutlook/deep-learning/blob/master/face_generation/dlnd_face_generation.html): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+[REVIEW RESULTS](https://review.udacity.com/#!/reviews/649549)
 
-There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
-
-## Table Of Contents
 
 ### Tutorials
 
@@ -24,27 +30,8 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 * [Deep Convolutional GAN (DCGAN)](https://github.com/dinglioutlook/deep-learning/tree/master/dcgan-svhn): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
 * [Intro to TFLearn](https://github.com/dinglioutlook/deep-learning/tree/master/intro-to-tflearn): A couple introductions to a high-level library for building neural networks.
 
-### Projects
+### Deep Learning Nanodegree Foundation
 
-* [Your First Neural Network](https://github.com/dinglioutlook/deep-learning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
-[REVIEW RESULTS](https://review.udacity.com/#!/reviews/426461)
-* [Image classification](https://github.com/dinglioutlook/deep-learning/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
-[REVIEW RESULTS](https://review.udacity.com/#!/reviews/494701)
-* [Text Generation](https://github.com/dinglioutlook/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
-[REVIEW RESULTS](https://review.udacity.com/#!/reviews/540436)
-* [Machine Translation](https://github.com/dinglioutlook/deep-learning/tree/master/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
-[REVIEW RESULTS](https://review.udacity.com/#!/reviews/584349)
-* [Face Generation](https://github.com/dinglioutlook/deep-learning/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
-[REVIEW RESULTS](https://review.udacity.com/#!/reviews/649549)
+This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
 
-## Dependencies
-
-Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
-
-### pip
-
-To install these dependencies with pip, you can issue `pip3 install -r requirements.txt`.
-
-### Conda Environments
-
-You can find Conda environment files for the Deep Learning program in the `environments` folder. Note that environment files are platform dependent. Versions with `tensorflow-gpu` are labeled in the filename with "GPU".
+There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
