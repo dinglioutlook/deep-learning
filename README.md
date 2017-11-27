@@ -10,6 +10,7 @@
 [REVIEW RESULTS](https://review.udacity.com/#!/reviews/584349)
 * [Face Generation](http://htmlpreview.github.io/?https://github.com/dinglioutlook/deep-learning/blob/master/face_generation/dlnd_face_generation.html): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 [REVIEW RESULTS](https://review.udacity.com/#!/reviews/649549)
+[Additional Resources](face_generation/resource.md)
 
 
 ### Tutorials
